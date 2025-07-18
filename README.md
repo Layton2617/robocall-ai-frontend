@@ -99,14 +99,4 @@ This frontend is designed to work with the robo_calling_agent backend. To integr
 2. Configure CORS settings in your backend
 3. Set up authentication if required
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-MIT License
 
