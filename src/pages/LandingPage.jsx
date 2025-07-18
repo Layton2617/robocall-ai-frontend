@@ -108,7 +108,7 @@ const LandingPage = () => {
               <a href="#features" className="text-gray-600 hover:text-gray-900 transition-colors">Features</a>
               <a href="#how-it-works" className="text-gray-600 hover:text-gray-900 transition-colors">How it Works</a>
               <a href="#pricing" className="text-gray-600 hover:text-gray-900 transition-colors">Pricing</a>
-              <a href="https://github.com" className="text-gray-600 hover:text-gray-900 transition-colors flex items-center space-x-1">
+              <a href="https://github.com/Layton2617/robocall-ai-frontend" className="text-gray-600 hover:text-gray-900 transition-colors flex items-center space-x-1">
                 <Github className="w-4 h-4" />
                 <span>GitHub</span>
               </a>
